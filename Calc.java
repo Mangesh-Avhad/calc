@@ -11,6 +11,10 @@ import java.util.Scanner;
    
    int sum=a+b;
    System.out.println("Addition: " +sum);
+   
+   int diff =a-b;
+   System.out.println("Subtraction: " + diff);
+
 }
 
 }
