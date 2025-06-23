@@ -15,6 +15,8 @@ import java.util.Scanner;
    int diff =a-b;
    System.out.println("Subtraction: " + diff);
 
+  int product=a*b;
+ System.out.println("Multiplication:" +product);
 }
 
 }
