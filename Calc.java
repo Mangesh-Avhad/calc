@@ -11,6 +11,9 @@ import java.util.Scanner;
    
    int sum=a+b;
    System.out.println("Addition: " +sum);
+
+  int product=a*b;
+ System.out.println("Multiplication:" +product);
 }
 
 }
